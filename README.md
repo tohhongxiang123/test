@@ -1,4 +1,1 @@
-# test
-
-hmm this is some text
-Lorem ipsum blabla
+This is an edited version of the readme. I am going to merge this
