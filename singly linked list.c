@@ -1,5 +1,9 @@
 #include <stdio.h>
-#include <cs50.h>
+#include <stdlib.h>
+typedef int bool;
+#define true = 1;
+#define false = 0;
+
 
 typedef struct sllist { //contains 2 things: value and a next pointer
     int val;
